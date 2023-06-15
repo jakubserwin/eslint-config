@@ -6,9 +6,11 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   extends: [
     'plugin:@typescript-eslint/recommended',
-    'plugin:jsx-a11y/recommended'
+    'plugin:jsx-a11y/recommended',
+    'plugin:react-hooks/recommended',
+    'plugin:tailwindcss/recommended'
   ],
-  plugins: ['import'],
+  plugins: ['import', '@typescript-eslint'],
   rules: {
     // Base
     semi: ['error', 'never'],
