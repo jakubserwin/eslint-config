@@ -1,6 +1,10 @@
 # @jakubserwin/eslint-config
 
-This package provides a custom ESLint configuration, `@jakubserwin/eslint-config`, to help you maintain consistent code style and enforce best practices in your React and Next projects.
+This package is designed for **Next** and **React** projects.
+
+If you are looking for an ESLint config for **Nuxt** and **Vue** projects, please visit [this URL](https://someurl).
+
+It provides a custom ESLint configuration, `@jakubserwin/eslint-config`, to help you maintain consistent code style and enforce best practices in your projects including:
 
 - Accessibility
 - React Hooks
@@ -41,8 +45,7 @@ To configure ESLint to use `@jakubserwin/eslint-config`, follow these steps:
    ```
 
 3. Save the file.
-
-Now ESLint will use the `@jakubserwin/eslint-config` configuration for linting your files.
+4. Sometimes a **reload** is required in VS Code
 
 ## Contributing
 
