@@ -2,7 +2,7 @@
 
 This package is designed for **Next** and **React** projects.
 
-If you are looking for an ESLint config for **Nuxt** and **Vue** projects, please visit [this URL](https://someurl).
+If you are looking for an ESLint config for **Nuxt** and **Vue** projects, please visit [this URL](https://github.com/jakubserwin/eslint-config-vue).
 
 It provides a custom ESLint configuration, `@jakubserwin/eslint-config`, to help you maintain consistent code style and enforce best practices in your projects including:
 
